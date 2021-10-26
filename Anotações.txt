@@ -1,17 +1,11 @@
-#  Meu primeiro repositório Git/GitHub
-Meu primeiro repositório. Desafio proposto pela Dio Inovation sobre Git/GitHub
-## links úteis
-[sitaxe básica markdown] (https://www.markdownguide.org/getting-started/)
-
 Anotações sobre o curso boot camp na digital inovation.
 programa
 {
 	
-
 	funcao inicio()
 	{
 		inteiro numeros [] = {57, 58, 329, 49}
-	
+
 		para(inteiro posicao = 0; posicao <=3; posicao ++){ 
 			escreva(numeros[posicao], " ")
 			
@@ -25,7 +19,7 @@ programa
 	
 	funcao inicio()
 	{
-	
+
 	inteiro contador, limite, resultado,numero
 	contador=0
 	limite=10
@@ -39,3 +33,5 @@ programa
 	}enquanto(contador<=limite)
 	
 	}
+		
+}
